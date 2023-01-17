@@ -1,7 +1,11 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 chanchito feliz
 =======
 canchito feliz
 chanchito feliz
 chanchito feliz
+>>>>>>> ramab
+=======
+canchito feliz
 >>>>>>> ramab
